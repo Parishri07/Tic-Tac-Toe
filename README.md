@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+Developed a fully functional tic-tac-toe game using HTML, CSS, and JavaScript. Implemented an interactive user interface that allows players to engage in a classic game of tic-tac-toe right in their web browser. It uses visually appealing animations when a player wins a game. It also has basic features like restarting when one player wins or when there is tie between the two players.
